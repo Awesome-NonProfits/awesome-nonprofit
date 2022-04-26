@@ -3,6 +3,11 @@ A list of technologies available to non-profits for a donation or special discou
 
 Format shamelessly copied from https://github.com/awesome-selfhosted/awesome-selfhosted
 
+# Contents
+[Hubs](#hubs)
+[Software](#software)
+
+
 # Hubs
 Places where you can access mutlitple Non-Profit offers at once
 
