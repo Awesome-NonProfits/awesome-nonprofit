@@ -1,12 +1,12 @@
 # Awesome Non-Profit
-A list of technologies available to non-profits for special pricing. 
+A list of technologies available to non-profits for a donation or special discount pricing. 
 
 Format shamelessly copied from https://github.com/awesome-selfhosted/awesome-selfhosted
 
 # Hubs
 Places where you can access mutlitple Non-Profit offers at once
 
-www.Techsoup.org
+https://www.techsoup.org
 
 https://nonprofit.microsoft.com/
 
